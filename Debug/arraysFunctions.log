@@ -1,0 +1,3 @@
+﻿  arraysFunctions.cpp
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\arraysFunctions\arraysFunctions.cpp(21,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  arraysFunctions.vcxproj -> C:\Users\092834\OneDrive - UP Education\Desktop\CS103\arraysFunctions\Debug\arraysFunctions.exe
