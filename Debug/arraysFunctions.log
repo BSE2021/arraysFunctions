@@ -1,3 +1,5 @@
 ﻿  arraysFunctions.cpp
-C:\Users\092834\OneDrive - UP Education\Desktop\CS103\arraysFunctions\arraysFunctions.cpp(21,41): warning C4305: 'initializing': truncation from 'double' to 'float'
-  arraysFunctions.vcxproj -> C:\Users\092834\OneDrive - UP Education\Desktop\CS103\arraysFunctions\Debug\arraysFunctions.exe
+D:\Users\092834\OneDrive - UP Education\Desktop\CS103\homeComputer\arraysFunctions\arraysFunctions.cpp(15,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\092834\OneDrive - UP Education\Desktop\CS103\homeComputer\arraysFunctions\arraysFunctions.cpp(41,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LINK : D:\Users\092834\OneDrive - UP Education\Desktop\CS103\homeComputer\arraysFunctions\Debug\arraysFunctions.exe not found or not built by the last incremental link; performing full link
+  arraysFunctions.vcxproj -> D:\Users\092834\OneDrive - UP Education\Desktop\CS103\homeComputer\arraysFunctions\Debug\arraysFunctions.exe

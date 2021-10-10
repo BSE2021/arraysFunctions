@@ -1,2 +1,4 @@
 C:\Users\092834\OneDrive - UP Education\Desktop\CS103\arraysFunctions\Debug\arraysFunctions.exe
 C:\Users\092834\OneDrive - UP Education\Desktop\CS103\arraysFunctions\Debug\arraysFunctions.pdb
+D:\Users\092834\OneDrive - UP Education\Desktop\CS103\homeComputer\arraysFunctions\Debug\arraysFunctions.exe
+D:\Users\092834\OneDrive - UP Education\Desktop\CS103\homeComputer\arraysFunctions\Debug\arraysFunctions.pdb
